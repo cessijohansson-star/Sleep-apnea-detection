@@ -1,0 +1,1 @@
+Here is presented sleep apnea detecting using ECG signal. The work includes a background of sleep apnea, evaluation of the raw signal, prerocessing, feature extraction, and application of machine learning methods, which are evaluated.
